@@ -1,0 +1,16 @@
+
+#include <stdio.h>
+#include <string.h>
+#define MAX 100
+
+
+
+int main(){
+
+    int testCase[MAX];
+
+
+    fgets(testCase, MAX, stdin);
+
+
+}
